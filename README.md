@@ -1,5 +1,6 @@
 # examen_integrador
 
+<<<<<<< HEAD
 
 
 
@@ -8,5 +9,7 @@
 
 
 
-tomas tozzi
+tomas tomas
+Exequiel Torres
+
 
